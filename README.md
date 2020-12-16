@@ -1,1 +1,1 @@
-* [**The game 1**](https://github.com/valentinepetrov/reactGame/) 
+* [**The game 1**](https://valentinepetrov.github.io/reactGame/) 
